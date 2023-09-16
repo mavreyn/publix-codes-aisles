@@ -1,0 +1,21 @@
+01 intl
+02 meat/cheese/bread
+03 breakfast
+04 crackers
+05 baking/dressing
+06 pasta/beans/sauce
+07 juice
+08 ice cream/pizza
+09 meals/veggies
+10 drinks
+11 pet food/stationery
+12 cleaning
+13 paper
+14 beer/chips
+15 nuts
+
+h1 soap/shampoo
+h2 mouth/medication
+h3 vitamins/protein
+h4 diapers/wipes
+h5 baby

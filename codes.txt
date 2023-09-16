@@ -1,0 +1,85 @@
+bananas 4011
+organic bananas 94011
+manzano bananas 4233
+plantains 4235
+
+avocado 4046
+lime 4048
+lemon 4053
+garlic 4608
+english cucumber hot house 4593
+cucumber 4062
+kiwi 4030
+asparagus 4080
+corn 4590
+bok choy 4545
+cantaloupe 4050
+acorn squash 4750
+organic cilantro 94889
+cilantro 4889
+parsley 4899
+broccoli 4060
+organic broccoli 94060
+cauliflower 4079
+iceberg lettuce 4061
+small watermelon 4343
+large watermelon 4032
+organic iceberg lettuce 94061
+zucchini 4067
+organic zucchini 94067
+leeks 4629
+red leaf lettuce 4075
+green leaf lettuce 4076
+romaine lettuce 4640
+green cabbage 4069
+nappa cabbage 4552
+cabbage red 4554
+peaches 4044
+honeydew 4034
+nectarines 4378
+
+red onion 4082
+green onions 4068
+white onions 4663
+yellow onion 4665
+
+reg potato 4072
+sweet potato 4091
+organic sweet potatoes 94816
+
+red seedless grapes 4023
+black seedless grades 4056
+white seedless grapdes 4022
+
+orange bell 4682
+yellow bell 4689
+red bell 4688
+green bell 4065
+organic green bell 94065
+jalapeno 4693
+habaneros 3125
+poblano 4705
+
+tomato OTV 4664
+tomato OTV Organic 94664
+tomato beefsteak 4799
+tomato plum 4087
+tomato plum organic 94087
+vine ripe tomato 3151
+
+coconut 4261
+ginger root 4612
+
+assorted bagels 5897
+
+publix purified 32 6048
+publix spring 24 5134
+Dasani 24 5179
+Zephyrhills 24 5181
+Nestle Pure Life 1268
+Aquafina 24 5178
+2.5 gal drinking 9388
+2.5 gal spring 9389
+
+small ice 9103
+large ice 9322
